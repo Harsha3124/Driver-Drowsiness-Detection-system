@@ -1,1 +1,5 @@
-
+opencv-python==4.5.3.56
+tensorflow==2.6.0
+numpy==1.19.5
+dlib==19.21.1  # Optional, for facial landmark detection
+imutils==0.5.4  # Optional, for additional image utilities
